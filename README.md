@@ -1,4 +1,5 @@
 # hello_world
 First Rep
-I am a first year university student studying computer science...
-this is my first github publish
+readme
+I am a first year uni student, this is my first publish here...
+I would be grateful to make any aquantances on here to discuss comp sci :) 
